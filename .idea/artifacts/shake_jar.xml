@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="shake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/shake_jar</output-path>
+    <root id="archive" name="shake.jar">
+      <element id="module-output" name="shake" />
+    </root>
+  </artifact>
+</component>
